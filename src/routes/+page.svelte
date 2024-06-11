@@ -6,12 +6,12 @@
 <div class="h-37.5px flex items-center justify-between -mt-2">
 	<div class="w-fit text-neutral-500">lucy.dev</div>
 	<div class="flex gap-x-4 text-neutral-500">
-		<a href="https://github.com/santowyo" class="hover:text-neutral-700">github</a>
-		<a href="https://twitter.com/santowyo" class="hover:text-neutral-700">twitter</a>
+		<a href="https://github.com/santowyo" target="_blank" class="hover:text-neutral-700">github</a>
+		<a href="https://twitter.com/santowyo" target="_blank" class="hover:text-neutral-700">twitter</a>
 	</div>
 </div>
 
-<main class="prose text-neutral-200">
+<main class="prose text-neutral-300">
 	<small class="text-neutral-500">IPA /ˈluːsi/ — aka lucyna, sant, santowyo</small>
 	<p class="font-bold">What is Ganqing?</p>
 	<p>
@@ -81,8 +81,9 @@
 <footer class="text-neutral-500 text-center mt-4 text-sm flex flex-col gap-1" >
 	<p>Lucyna Evergarden</p>
     <div class="flex flex-row gap-1.5 justify-center text-base">
-        <a href="https://github.com/santowyo"><i class="fa-brands fa-github"></i></a>
-        <a href="https://twitter.com/santowyo"><i class="fa-brands fa-twitter"></i></a>
+        <a href="https://github.com/santowyo" target="_blank"><i class="fa-brands fa-github"></i></a>
+        <a href="https://twitter.com/santowyo" target="_blank"><i class="fa-brands fa-twitter"></i></a>
+        <a href="https://behance.net/santoryo" target="_blank"><i class="fa-brands fa-behance"></i></a>
         <a href="mailto:santoryo.evergarden@gmail.com"><i class="fa fa-envelope"></i></a>
     </div>
 
