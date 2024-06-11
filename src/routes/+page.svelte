@@ -12,6 +12,7 @@
 
 <main class="prose text-neutral-200">
 	<small class="text-neutral-500">IPA /ˈluːsi/ — aka lucyna, sant, santowyo</small>
+    <p class="font-bold">What is Ganqing?</p>
 	<p>
 		The ship name is derived from the first letters of Ganyu's name and the last four letters of
 		Keqing's name. However, it's worth noting that the Chinese characters used for the ship name are
